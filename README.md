@@ -13,6 +13,8 @@ NemO is a bot built for you, to welcome new users to your servers mainly. Custom
 
 Feel free to add a star ⭐ to the repository to promote the project!
 
+[![Discord Bots](https://top.gg/api/widget/818731660009930754.svg)(https://top.gg/bot/818731660009930754)
+
 ## Features
 
 ### Complete bot
